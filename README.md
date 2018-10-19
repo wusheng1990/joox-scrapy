@@ -9,3 +9,5 @@ pip3 install pymongo
 pip3 install oss2
 
 pip3 install pyasn1 --upgrade
+
+pip3 install scrapy
